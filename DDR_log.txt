@@ -1,3 +1,5 @@
-DDR 
-4096
-security
+
+
+learn arm
+learn python
+
