@@ -1,0 +1,3 @@
+DDR 
+4096
+security
